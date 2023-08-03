@@ -21,7 +21,7 @@ Projeto desenvolvido durante o curso da Alura HTLML e CSS: praticando HTML/CSS, 
 </h1>
 
 <h1 align="center">
-  <img alt="Alura-plus" title="#alura" src="./src/public/screenshot/footer.png" />
+  <img alt="Alura-plus" title="#alura" src="./screenshot/footer.png" />
 </h1>
 
 
