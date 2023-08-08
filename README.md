@@ -1,6 +1,7 @@
 # alura-plus
 
-Projeto desenvolvido durante o curso da Alura HTLML e CSS: praticando HTML/CSS, feito pela Monica Hillman.
+Projeto desenvolvido durante o curso da Alura HTLML e CSS: praticando HTML/CSS, feito pela Monica Hillman.<br>
+Acesse o site em: https://frdbrq.github.io/alura-plus/
 
 <img src="https://img.shields.io/github/issues/frdbrq/alura-plus" />
 <img src="https://img.shields.io/github/forks/frdbrq/alura-plus" />
